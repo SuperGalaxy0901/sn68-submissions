@@ -1,1 +1,0 @@
-selftest from the miner setup check
